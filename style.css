@@ -1,0 +1,27 @@
+.wpcongress-box {
+border:1px #555 solid;
+background:#f3f3f3;
+padding:10px 20px;
+margin-left:10px;
+font-size:0.8em;
+}
+.votes-ayes li,.votes-nays li,.bill-cosponsor {
+float:left;
+list-style:none;
+margin-right:5px;
+font-size:0.8em;
+}
+
+#wpcongress-form {
+margin:0px; padding:0px;
+
+}
+#wpcongress-form h3 {
+margin-bottom:5px; 
+
+}
+#wpcongress-form p {
+margin-bottom:5px; 
+}
+
+.collapse { display:none; }
